@@ -1,25 +1,23 @@
-# TAVECCHIACOIN
+# TAV — Bitcoin-like Proof-of-Work L1
 
-TAVECCHIACOIN is a Bitcoin-like Layer 1 blockchain using Proof-of-Work (SHA-256).
+TAV is a Bitcoin-style Layer 1 blockchain designed to power TVNET,
+a decentralized peer-to-peer video network.
 
-L1 is fully decentralized from genesis:
+Architecture:
+
+- L1: Proof-of-Work (Bitcoin-family)
+- 2-minute blocks
+- Daily difficulty adjustment
+- Fixed supply cap: 42,000,000 TAV
+- ~4-year halvings
 - No premine
 - No founder allocation
 - No admin keys
-- Fixed supply cap of 42,000,000 TAV
+- Fully decentralized from genesis
 
-Network parameters:
-- 2-minute block time
-- Daily difficulty adjustment
-- ~4-year halving schedule (1,050,000 blocks)
+Layer 2 (planned):
+EVM-compatible rollup for smart contracts and payments.
 
-Layer 2:
-- EVM-compatible smart contract layer
-- Designed for scalable decentralized applications
-
-TVNET:
-- Decentralized P2P video infrastructure
-- Native settlement powered by TAVECCHIACOIN
-
-Fair launch. Immutable rules. Bitcoin-grade security.
+Default P2P port: 8333
+Ticker: TAV
 
