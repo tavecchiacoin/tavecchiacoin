@@ -1,0 +1,8 @@
+{
+  "chainId": "tav-1",
+  "genesisTime": "2026-02-19T00:00:00Z",
+  "initialSupply": 0,
+  "treasury": null,
+  "validators": [],
+  "notes": "Fair launch - no premine - fully decentralized from genesis"
+}
