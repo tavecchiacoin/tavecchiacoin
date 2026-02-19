@@ -1,14 +1,1 @@
-{
-  "chainId": "tav-1",
-  "consensus": "pow",
-  "powAlgorithm": "sha256",
-  "blockTimeSeconds": 120,
-  "supplyCap": 42000000,
-  "halvingIntervalBlocks": 1050000,
-  "difficultyAdjustSeconds": 86400,
-  "initialBlockReward": 50,
-  "mining": {
-    "retargetWindowBlocks": 720
-  },
-  "notes": "Bitcoin-like PoW L1 with 2-minute blocks and fixed supply cap."
-}
+
