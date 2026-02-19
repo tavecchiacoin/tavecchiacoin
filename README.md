@@ -1,16 +1,23 @@
-## Hi there 👋
+# TAVECCHIACOIN
 
-<!--
-**tavecchiacoin/tavecchiacoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TAVECCHIACOIN is a fully decentralized blockchain protocol designed to power TVNET.
 
-Here are some ideas to get you started:
+Layer 1 (L1) is a Bitcoin-like Proof-of-Work blockchain:
+- SHA-256 mining
+- Fixed supply cap
+- No premine
+- No founder allocation
+- No admin keys
+- No central authority
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Layer 2 (L2) will provide EVM compatibility for smart contracts and DeFi applications.
+
+TVNET is the native decentralized media layer built on top of TAVECCHIACOIN.
+
+Fair Launch:
+The network starts with zero supply.
+Coins are created only through mining.
+Every participant competes on equal terms from genesis.
+
+Decentralization is mandatory.
+No entity, including the founder, has special privileges.
