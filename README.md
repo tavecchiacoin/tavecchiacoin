@@ -21,3 +21,8 @@ Every participant competes on equal terms from genesis.
 
 Decentralization is mandatory.
 No entity, including the founder, has special privileges.
+
+
+
+
+Add Bitcoin-like manifesto
