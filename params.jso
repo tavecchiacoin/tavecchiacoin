@@ -1,0 +1,11 @@
+{
+  "chainId": "tav-1",
+  "slotSeconds": 2,
+  "epochSeconds": 21600,
+  "annualIssuance": 0.025,
+  "issuanceSplit": { "validators": 0.60, "storageRelay": 0.40 },
+  "minStakeTAV": 50000,
+  "unbondingDays": 14,
+  "slashing": { "downtime": 0.005, "doubleSign": 0.07 },
+  "bootstrapPhase": { "enabled": true, "durationHours": 24 }
+}
