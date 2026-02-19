@@ -1,10 +1,13 @@
 {
   "chainId": "tav-1",
+  "consensus": "pow",
+  "powAlgorithm": "sha256",
   "genesisTime": "2026-02-19T00:00:00Z",
   "initialSupply": 0,
-  "treasury": null,
-  "validators": [],
-  "notes": "Fair launch - no premine - fully decentralized from genesis"
+  "premine": 0,
+  "founderAllocation": 0,
+  "adminKeys": null,
+  "notes": "Fair launch - no premine - no founder allocation - fully decentralized from genesis."
 }
 
 
